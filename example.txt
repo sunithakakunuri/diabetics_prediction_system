@@ -1,0 +1,35 @@
+Example 1 (Low Risk):
+Copy=== Diabetes Prediction System ===
+Enter Pregnancies (0-20): 1
+Enter Glucose (0-200): 85
+Enter BloodPressure (0-200): 66
+Enter SkinThickness (0-100): 29
+Enter Insulin (0-1000): 85
+Enter BMI (0-70): 26.6
+Enter DiabetesPedigreeFunction (0-3): 0.351
+Enter Age (0-120): 31
+
+
+
+Example 2 (Moderate Risk):
+Copy=== Diabetes Prediction System ===
+Enter Pregnancies (0-20): 6
+Enter Glucose (0-200): 148
+Enter BloodPressure (0-200): 72
+Enter SkinThickness (0-100): 35
+Enter Insulin (0-1000): 155
+Enter BMI (0-70): 33.6
+Enter DiabetesPedigreeFunction (0-3): 0.627
+Enter Age (0-120): 50
+
+
+Example 3 (High Risk):
+Copy=== Diabetes Prediction System ===
+Enter Pregnancies (0-20): 8
+Enter Glucose (0-200): 183
+Enter BloodPressure (0-200): 64
+Enter SkinThickness (0-100): 45
+Enter Insulin (0-1000): 510
+Enter BMI (0-70): 37.1
+Enter DiabetesPedigreeFunction (0-3): 1.3188
+Enter Age (0-120): 45
